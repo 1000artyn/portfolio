@@ -197,7 +197,7 @@ a {
   {#if show}
   <div in:fade={{ duration: 800, delay: 2400 }} class="initial-fade-in">
     <div class="page-menu">
-      <p on:click={() => setBox(0)}>about</p>
+      <p on:click={() => setBox(0)}>abou</p>
       <p on:click={() => setBox(1)}>work</p>
       <p on:click={() => setBox(2)}>contact</p>
     </div>

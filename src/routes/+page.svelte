@@ -188,6 +188,11 @@ a {
     margin-bottom: 50px;
   }
 }
+.contact {
+  a {
+    color: #8273f2b8;
+  }
+}
 </style>
 <main>
   <div class="title-box">

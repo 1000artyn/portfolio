@@ -9,7 +9,7 @@ const config = {
 		fallback: null,
 		}),
 		paths: {
-		base: process.env.NODE_ENV === 'production' ? '/portfolio' : '',
+		base: '/portfolio'
 		}
 	}
 };

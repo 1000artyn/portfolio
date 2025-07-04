@@ -30,6 +30,12 @@
       description: "Event site to run as a companion to Helitech"
     },
     {
+      name: "React Scrapbook",
+      url: "https://react-portfolio-blue-six.vercel.app/diceroll",
+      image: "advancedair.png",
+      description: "A collection of small projects using React"
+    },
+    {
       name: "Space Station Trading System",
       url: "https://space-station-ui.vercel.app/",
       image: "SSTS.webp",

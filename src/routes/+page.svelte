@@ -32,7 +32,7 @@
     {
       name: "React Scrapbook",
       url: "https://react-portfolio-blue-six.vercel.app/",
-      image: "React_Logo.svg",
+      image: "React_Logo.png",
       description: "A collection of small projects using React"
     },
     {

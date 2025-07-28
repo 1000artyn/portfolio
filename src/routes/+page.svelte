@@ -36,6 +36,12 @@
       description: "A collection of small projects using React"
     },
     {
+      name: "React Pokédex",
+      url: "https://pokeapi-peach.vercel.app/",
+      image: "Poke_Ball_icon.png",
+      description: "A Pokédex app made using React, with integration of PokeAPI."
+    },
+    {
       name: "Space Station Trading System",
       url: "https://space-station-ui.vercel.app/",
       image: "SSTS.webp",

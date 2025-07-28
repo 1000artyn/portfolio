@@ -52,8 +52,8 @@
   let current = 0;
 
 	const boxes = [
-		{ id: 0, content: "This is content for Box 1", class:"about" },
-		{ id: 1, content: "This is content for Box 2", class:"work" },
+		{ id: 0, content: "This is content for Box 1", class:"work" },
+		{ id: 1, content: "This is content for Box 2", class:"about" },
 		{ id: 2, content: "This is content for Box 3", class:"contact" }
 	];
 

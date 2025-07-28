@@ -9,7 +9,7 @@
       name: "Whip-It UK",
       url: "https://www.whip-it.co.uk/",
       image: "whipit.png",
-      description: "Automotive services platform with API and Stripe integration, booking sysems, plus user login & dashboard."
+      description: "Automotive services platform with API and Stripe integration, booking sysems, plus user login & dashboard"
     },
     {
       name: "Helitech",
@@ -39,7 +39,7 @@
       name: "React Pokédex",
       url: "https://pokeapi-peach.vercel.app/",
       image: "Poke_Ball_icon.png",
-      description: "A Pokédex app made using React, with integration of PokeAPI."
+      description: "A Pokédex app made using React, with integration of PokeAPI"
     },
     {
       name: "Space Station Trading System",

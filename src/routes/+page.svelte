@@ -15,19 +15,19 @@
       name: "Helitech",
       url: "https://www.helitech.co.uk/",
       image: "helitech.jpg",
-      description: "Event site emphasizing accessibility and UX"
+      description: "One of many event websites I made while working at Fortem International"
     },
     {
       name: "Disaster Expo Europe",
       url: "https://www.disasterexpoeurope.com/",
       image: "disastereurope.png",
-      description: "Event site with database integration"
+      description: "One of many event websites I made while working at Fortem International"
     },
     {
       name: "Advanced Air Expo",
       url: "https://www.advancedairexpo.co.uk/",
       image: "advancedair.png",
-      description: "Event site to run as a companion to Helitech"
+      description: "One of many event websites I made while working at Fortem International"
     },
     {
       name: "React Scrapbook",

@@ -214,8 +214,8 @@ a {
   {#if show}
   <div in:fade={{ duration: 800, delay: 2400 }} class="initial-fade-in">
     <div class="page-menu">
-      <p on:click={() => setBox(0)}>about</p>
-      <p on:click={() => setBox(1)}>work</p>
+      <p on:click={() => setBox(0)}>work</p>
+      <p on:click={() => setBox(1)}>about</p>
       <p on:click={() => setBox(2)}>contact</p>
     </div>
     <input
@@ -235,18 +235,6 @@ a {
     {#each boxes as box (box.id)}
       {#if box.id === 0 && current === 0}
         <div in:fade={{ duration: 500, delay: 500 }} out:fade={{ duration: 500 }} class="{box.class}">
-          <p>Creative and user-focused Front-End Web Developer with over 7 years of experience in building responsive, scalable, and performance-optimized web applications.</p>
-          <div class="button-container">
-            <button class="fancy-button" on:click={() => window.open(pdfFile, '_blank')}>
-              View CV
-            </button>
-            <a href={pdfFile} download="martyn_vesey_cv.pdf">
-              <button class="fancy-button">Download CV</button>
-            </a>
-          </div>
-        </div>
-      {:else if box.id === 1 && current === 1}
-        <div in:fade={{ duration: 500, delay: 500 }} out:fade={{ duration: 500 }} class="{box.class}">
           <p>Here are some of the websites and projects I've worked on:</p>
           <div class="portfolio-grid">
           {#each sites as site}
@@ -260,6 +248,18 @@ a {
               </a>
               </div>
           {/each}
+          </div>
+        </div>
+      {:else if box.id === 1 && current === 1}
+        <div in:fade={{ duration: 500, delay: 500 }} out:fade={{ duration: 500 }} class="{box.class}">
+          <p>Creative and user-focused Front-End Web Developer with over 7 years of experience in building responsive, scalable, and performance-optimized web applications.</p>
+          <div class="button-container">
+            <button class="fancy-button" on:click={() => window.open(pdfFile, '_blank')}>
+              View CV
+            </button>
+            <a href={pdfFile} download="martyn_vesey_cv.pdf">
+              <button class="fancy-button">Download CV</button>
+            </a>
           </div>
         </div>
       {:else if box.id === 2 && current === 2}

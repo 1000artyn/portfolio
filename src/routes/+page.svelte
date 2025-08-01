@@ -30,6 +30,12 @@
       description: "One of many event websites I made while working at Fortem International"
     },
     {
+      name: "Pokémon Run",
+      url: "https://poke-jump.vercel.app/",
+      image: "poke_run_logo.png",
+      description: "This is a simple endless runner game, built in React, with PokéAPI integrated for character selection."
+    },
+    {
       name: "React Scrapbook",
       url: "https://react-portfolio-blue-six.vercel.app/",
       image: "React_Logo.png",

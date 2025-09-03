@@ -33,7 +33,7 @@
       name: "Pokémon Run",
       url: "https://poke-jump.vercel.app/",
       image: "poke_run_logo.png",
-      description: "This is a simple endless runner game, built in React, with PokéAPI integrated for character selection."
+      description: "This is a simple endless runner game, built in React, with PokéAPI integrated for character selection"
     },
     {
       name: "React Scrapbook",
@@ -52,6 +52,12 @@
       url: "https://space-station-ui.vercel.app/",
       image: "SSTS.webp",
       description: "Design for the front end of an API simulating a video game trading system"
+    }
+    {
+      name: "QuoteTime",
+      url: "https://quote-time-react.vercel.app/",
+      image: "qt_screenshot.jpg",
+      description: "Minimalist quote generator app, built with React and Tailwind"
     }
   ];
 

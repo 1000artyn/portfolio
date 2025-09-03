@@ -247,7 +247,7 @@ a {
     {#each boxes as box (box.id)}
       {#if box.id === 0 && current === 0}
         <div in:fade={{ duration: 500, delay: 500 }} out:fade={{ duration: 500 }} class="{box.class}">
-          <p>Here are some of the websites and projects I've worked on:</p>
+          <p>Here are some of the websites and projects I've worked on</p>
           <div class="portfolio-grid">
           {#each sites as site}
               <div class="portfolio-item">

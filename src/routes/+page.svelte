@@ -59,6 +59,12 @@
       image: "qt_screenshot.jpg",
       description: "Minimalist quote generator app, built with React and Tailwind"
     }
+    {
+      name: "Whack-a-Mole",
+      url: "https://whack-a-mole-topaz.vercel.app/",
+      image: "mole_hill2.webp",
+      description: "Fun little whack-a-mole game, built with React and Tailwind, optimised for mobile"
+    }
   ];
 
   let current = 0;

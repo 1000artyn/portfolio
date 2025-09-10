@@ -58,7 +58,7 @@
       url: "https://quote-time-react.vercel.app/",
       image: "qt_screenshot.jpg",
       description: "Minimalist quote generator app, built with React and Tailwind"
-    }
+    },
     {
       name: "Whack-a-Mole",
       url: "https://whack-a-mole-topaz.vercel.app/",

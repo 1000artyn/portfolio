@@ -36,16 +36,16 @@
       description: "This is a simple endless runner game, built in React, with PokéAPI integrated for character selection"
     },
     {
-      name: "Pokémon Run",
-      url: "https://poke-jump.vercel.app/",
-      image: "poke_run_logo.png",
-      description: "This is a simple endless runner game, built in React, with PokéAPI integrated for character selection"
-    },
-    {
       name: "D&D 5e Monster Manual",
       url: "https://monster-manual.vercel.app/",
       image: "dragon_thumb.webp",
       description: "A Dungeons and Dragons monster manual in Vue, built it with vite, using dnd5eapi for functionality and tailwind for CSS"
+    },
+    {
+      name: "React Scrapbook",
+      url: "https://react-portfolio-blue-six.vercel.app/",
+      image: "React_Logo.png",
+      description: "A collection of small projects using React"
     },
     {
       name: "React Pokédex",
